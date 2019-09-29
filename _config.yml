@@ -2,17 +2,16 @@
 # Theme Customization #
 #######################
 
-title: J. Bravo                             # used in <title> tag & site header
-author: Johnny Bravo                        # used in a <meta> tag & /feed.xml
+title: D. Estelle                             # used in <title> tag & site header
+author: denghuan                        # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
-  Hello 911 emergency, there's a handsome guy in my house!
-  Oh wait a second, cancel that. It's only me.
-slogan: Showtime!                           # used in site header, beside title
-avatar: /i/avatar.png                       # used as portrait in site header
+  邓欢的笔记本
+slogan: notebook!                           # used in site header, beside title
+avatar: /i/profile.jpg                       # used as portrait in site header
 banner: /i/mountains.svg                    # used as background in site header
 url: http://solana.ryanlue.com              # used by plugins to generate feed.xml and sitemap.xml
 baseurl: ''                                 # prepended to all absolute filepaths
-repo: https://github.com/rlue/jekyll-solana # used in footer
+repo: https://github.com/youqianer/youqianer.github.io # used in footer
 
 # Objects listed here will appear in the main nav menu.
 # Exceeding four items may cause problems on the desktop (>900px wide) layout.
@@ -24,7 +23,7 @@ nav_menu:
     url: /projects
     icon: /i/icons.svg#portfolio
   - name: GitHub
-    url: https://github.com/rlue/
+    url: https://github.com/youqianer
     icon: /i/icons.svg#github
     outbound: true      # this key sets a link to open in a new window.
   - name: Contact
