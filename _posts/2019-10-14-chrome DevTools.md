@@ -2,7 +2,7 @@
 title: Chrome DevTools 
 teaser: 你不知道的 Chrome 调试技巧
 category: browser
-tags: [compatibility]
+tags: [tool]
 ---
 
 ###### 掘金小册[《你不知道的 Chrome 调试技巧》]的学习总结
